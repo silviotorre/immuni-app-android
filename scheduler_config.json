@@ -23,6 +23,6 @@
       "gradlew.bat",
       "settings.gradle",
       "template.properties",
-      ".editorconfig"
+      ".editorconfig" 
    ]
 }
